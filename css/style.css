@@ -44,6 +44,11 @@
 
 }
 
+.text-container {
+  max-width: 600px; /* Limit the width of the text */
+  margin-left: 20px; /* Additional margin if needed */
+}
+
 *,
 *::before,
 *::after {
